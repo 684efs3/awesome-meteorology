@@ -135,9 +135,8 @@ Whether you are a seasoned atmospheric scientist, a student learning synoptic me
 
 ### Job Boards & Career Services
 * [AMS Career Center](https://careercenter.ametsoc.org/) - The official job board of the American Meteorological Society. The absolute best place to look for broadcast, private sector, and academic meteorology jobs in the US.
-* [Earthworks-Jobs (Meteorology & Climate)](https://www.earthworks-jobs.com/meteorology) - A phenomenal global job board specifically tailored to the geosciences, climate, and atmospheric sciences.
+* [Earthworks-Jobs (Meteorology & Climate)](https://www.earthworks-jobs.com/?update=&cat=31) - A phenomenal global job board specifically tailored to the geosciences, climate, and atmospheric sciences.
 * [AGU Career Center](https://findajob.agu.org/jobs/atmospheric-sciences/) - The American Geophysical Union's job board, heavily leaning toward academic, research, and post-doc positions.
-* [Met-Jobs Listserv](https://lists.reading.ac.uk/mailman/listinfo/met-jobs) - A classic, highly active email distribution list for job vacancies in meteorology, oceanography, and climatology globally.
 
 ### Professional Societies
 * [American Meteorological Society (AMS)](https://www.ametsoc.org/) - The premier scientific and professional organization in the US promoting the atmospheric, oceanic, and hydrologic sciences.
